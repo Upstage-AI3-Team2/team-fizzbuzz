@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-for i in range(1, 15+1):
+for i in range(1, 15+1):             # 반복 횟수를 15회로 설정
     if i % 3 == 0 and i % 5 == 0:    # 3과 5의 공배수일 때
         print('FizzBuzz')            # FizzBuzz 출력
     elif i % 3 == 0:                 # 3의 배수일 때
